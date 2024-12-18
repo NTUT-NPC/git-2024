@@ -3,7 +3,7 @@ def add(a, b):
 
 # Example usage
 num1 = 3
-num2 = 5
+num2 = 6
 print(f"The sum of {num1} and {num2} is {add(num1, num2)}")
 
 def compare(kind: dict, number: list):
